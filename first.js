@@ -5,7 +5,7 @@ class MyFirstApp extends Component {
   render() { 
     return(
       <Text>Hello mobile application</Text>
-      <Text>I'm new mobile developer</Text>
+      <Text>Im new mobile developer</Text>
     );
   }
 }
